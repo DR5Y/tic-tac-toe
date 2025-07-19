@@ -1,6 +1,5 @@
 "use client";
-import Image from "next/image";
-import { useSession } from "next-auth/react";
+
 import { useState } from "react";
 import Square from "../../components/Square";
 
